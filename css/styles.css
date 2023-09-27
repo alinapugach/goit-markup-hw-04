@@ -271,6 +271,10 @@ path {
     0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 
+/* .team-inform {
+  padding: 32px 0;
+} */
+
 .team-title {
   margin-bottom: 72px;
   text-align: center;
@@ -287,10 +291,9 @@ path {
   gap: 24px;
 }
 
-.team-social {
+.team-social-list {
   display: flex;
   justify-content: center;
-  align-items: center;
   gap: 24px;
   padding: 32px 0;
 }
@@ -315,7 +318,7 @@ path {
   background-color: #404bbf;
 }
 
-.team-icon {
+.team-social-icon {
   fill: #f4f4fd;
 }
 
