@@ -271,7 +271,7 @@ path {
     0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 
-.team-inform {
+.team-social-container {
   padding: 32px 0;
 }
 
@@ -295,7 +295,6 @@ path {
   display: flex;
   justify-content: center;
   gap: 24px;
-  padding: 32px 0;
 }
 
 .team-social-item {
