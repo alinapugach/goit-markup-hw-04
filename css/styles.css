@@ -271,10 +271,6 @@ path {
     0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 
-/* .team-social-container {
-  padding: 32px 0;
-} */
-
 .team-title {
   margin-bottom: 72px;
   text-align: center;
@@ -289,6 +285,10 @@ path {
   justify-content: center;
   align-items: center;
   gap: 24px;
+}
+
+.team-social {
+  padding: 32px 0;
 }
 
 .team-social-list {
